@@ -2,7 +2,7 @@
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge)](https://github.com/hacs/integration)
 
-Eine Custom Lovelace Card für Home Assistant, die deine PV-Anlage als Halbkreis-Bogen visualisiert — mit zwei umschaltbaren Ansichten für Tageswerte (kWh) und Live-Leistung (W).
+Eine Custom Lovelace Card für Home Assistant, die deine PV-Anlage als Halbkreis-Bogen visualisiert — mit zwei umschaltbaren Ansichten für Tageswerte (kWh) und Live-Leistung (W) — Schwesterkarte der Consumption Arc Card, strukturell identisch aufgebaut, aber für Erzeugung statt Verbrauch.
 
 ![Screenshot](docs/screenshot-energy.png)
 ![Screenshot](docs/screenshot-live.png)
